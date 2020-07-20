@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Control/Controller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Model/GetConn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Model/Judge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/AddUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/ChangeFilm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/PersonalInformation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/ProgressBar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/ResetPasswords.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/SingleFilm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/TheFilmInterface.java" charset="GBK" />
+  </component>
+</project>
